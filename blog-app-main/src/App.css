@@ -1,0 +1,20 @@
+body{
+    background: #c9ced1!important;
+}
+
+.page-item.active .page-link{
+    background-color: #121212!important;
+    border-color: #121212!important;
+}
+
+.logo{
+    height: 10vh;
+    aspect-ratio: 3/1;
+}
+
+.header-img{
+    width: 100vw;
+    aspect-ratio: 5/2;
+}
+
+
